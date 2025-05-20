@@ -32,3 +32,17 @@ This project is written in **pure Java** and is a great beginner-friendly tool t
    To check:
    ```bash
    java -version
+
+2. Compile the program:
+   ```bash
+   javac practice.java
+3. Run the program:
+   ```bash
+   java practice
+
+---
+
+## Contributions
+
+Contributions, issues and feature requests are welcome!
+Feel free to open a pull request.
