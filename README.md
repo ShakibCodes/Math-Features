@@ -42,6 +42,14 @@ This project is written in **pure Java** and is a great beginner-friendly tool t
 
 ---
 
+## Author
+
+**Shakib Sayyed**
+- **[Portfolio](https://shakibsayyed.netlify.app/)**
+
+
+---
+
 ## Contributions
 
 Contributions, issues and feature requests are welcome!
