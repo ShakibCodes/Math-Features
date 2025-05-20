@@ -46,7 +46,8 @@ This project is written in **pure Java** and is a great beginner-friendly tool t
 
 **Shakib Sayyed**
 - **[Portfolio](https://shakibsayyed.netlify.app/)**
-
+- **[Linkedin](https://www.linkedin.com/in/shakib-sayyed-81b9b4352/)**
+- **[GitHub](https://github.com/ShakibCodes/)**
 
 ---
 
@@ -54,3 +55,9 @@ This project is written in **pure Java** and is a great beginner-friendly tool t
 
 Contributions, issues and feature requests are welcome!
 Feel free to open a pull request.
+
+
+## 📜 License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
